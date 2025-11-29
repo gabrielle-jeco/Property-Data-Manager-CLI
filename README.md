@@ -40,7 +40,7 @@ Pastikan kamu sudah menginstall Compiler C (seperti GCC).
 ### Langkah-langkah
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/username-kamu/Property-Data-Manager-CLI.git](https://github.com/username-kamu/Property-Data-Manager-CLI.git)
+    git clone [https://github.com/gabrielle-jeco/Property-Data-Manager-CLI.git](https://github.com/gabrielle-jeco/Property-Data-Manager-CLI.git)
     ```
 2.  **Siapkan File Data:**
     Pastikan file `file.csv` berada dalam satu folder dengan kode program. Format header CSV harus sesuai dengan struktur data program.
